@@ -1,11 +1,8 @@
 package test_cases;
 
-public  class tc003 {
-    // test case 3
+public class TC003 {
+    //first lines
 
-    // writing some tests
+    //Second line
 
-    // creating a report
-
-    // screenshot of failure
 }
