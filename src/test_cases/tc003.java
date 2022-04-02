@@ -1,4 +1,6 @@
-public class tc003 {
+package test_cases;
+
+public  class tc003 {
     // test case 3
 
     // writing some tests
